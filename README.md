@@ -47,14 +47,14 @@ def max_marks(list1):
 ```
 ##  OUTPUT
 ## To find the maximum of marks using the list method sort
-![output](exp7.jpg) 
+![output](./exp7.jpg) 
 
 ## OUTPUT:
 ## To find the maximum marks using the list method max.
-![output](exp1.jpg)
+![output](./exp1.jpg)
 
 ##  OUTPUT
 ## To find the maximum marks without using builtin functions.
-![output](ex2.jpg)
+![output](./ex2.jpg)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
